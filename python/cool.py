@@ -1,1 +1,1 @@
-print('I code a lot in Python, so I guess I won\'t make any review scripts for now ;)')
+print('This is just a program I\'m coding for fun')
